@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ciando bugs desde 2024<br>📚 Atualmente estou aprendendo Javascript e React<br>🎯 Objetivos: primeira vaga no mercado<br></p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou aprendendo Javascript e React<br>🎯 Objetivos: primeira vaga no mercado<br></p>
 
 ###
 
