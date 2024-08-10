@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Kaynan Teixeira e eu sou um desenvolvedor front-end</p>
+<p align="left">Meu nome é Kaynan Teixeira e eu sou um aspirante a desenvolvedor front-end</p>
 
 ###
 
