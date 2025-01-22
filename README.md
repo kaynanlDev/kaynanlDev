@@ -17,6 +17,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,notion,npm,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,figma,notion,npm&theme=dark)](https://skillicons.dev)
 
 ###
