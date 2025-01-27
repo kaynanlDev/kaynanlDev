@@ -21,5 +21,3 @@
 
 ###
 
-<p align="left">Email: mailto:kaynan2817@gmail.com</p>
-
