@@ -20,3 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,figma,notion,npm&theme=dark)](https://skillicons.dev)
 
 ###
+
+<p align="left">Email: mailto:kaynan2817@gmail.com</p>
+
