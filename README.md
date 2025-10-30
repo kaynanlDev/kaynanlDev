@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor Front-end desde 2024<br>🎯 Javascript | Vue | Tailwind<br>📚 Estudante de Análise e desenvolvimento de sistemas - UFBRA<br></p>
+<p align="left">✨ Desenvolvedor Front-end desde 2024<br>🎯 Javascript | TypeScript | React | Next.js | Vue | Tailwind<br>📚 Estudante de Análise e desenvolvimento de sistemas - UFBRA<br></p>
 
 ###
 
