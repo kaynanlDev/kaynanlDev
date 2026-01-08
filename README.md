@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Kaynan Teixeira e eu sou um desenvolvedor Front-End em formação.</p>
+<p align="left">Meu nome é Kaynan Teixeira e eu sou um desenvolvedor Front-End.</p>
 
 ###
 
